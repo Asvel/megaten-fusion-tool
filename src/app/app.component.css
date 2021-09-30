@@ -149,3 +149,7 @@ tbody tr.special td {
 tbody tr.exception td, tbody tr.unique td {
   background-color: #622323;
 }
+
+div.element-icon:not(:empty) {
+  min-width: 40px;
+}
